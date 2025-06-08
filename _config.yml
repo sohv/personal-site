@@ -1,6 +1,7 @@
 title: Sohan's Space
 author: Sohan Venkatesh
-url: sohv.github.io
+url: https://sohv.github.io
+baseurl: ""
 description: hey
 
 permalink: /:slug
