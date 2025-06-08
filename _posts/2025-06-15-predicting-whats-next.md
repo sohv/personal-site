@@ -1,7 +1,10 @@
 ---
 layout: post
-author: Abhinav Saxena
-tags: [overview, moonwalk]
+title: "Predicting what's next"
+author: Sohan Venkatesh
+date: 2025-06-15
+tags: [article]
+description: "This blog provides a clear overview of how language models predict the next word in a sentence, hence offering deep insights into the basics of language modeling"
 ---
 
 Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.

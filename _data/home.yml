@@ -5,63 +5,70 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+experience_entries:
+  - title: Research Intern
+    company: Precog, IIIT Hyderabad
+    period: "May 2025 - Present"
+    description: I work on analyzing the sycophantic behavior of LLMs under the guidance of Prof. Ponnurangam Kumaraguru.
+    location: Hyderabad, India
+    logo: "/assets/images/precog_logo.png"
+
+  - title: Software Development Intern
+    company: MIT Bengaluru
+    period: "Sept 2024 - Mar 2025"
+    description: I worked on frontend development and documentation for the project 'Accreditation and Ranking Database System' at Application Development Cell, MIT Bengaluru.
+    location: Bengaluru, India
+    logo: "/assets/images/manipal_logo.jpg"
+  
+  - title: Data Science Fellow
+    company: Fellowship.ai
+    period: "July 2024 - Sept 2024"
+    description: I built a copilot for Jupyter notebooks to assist data scientists in writing and debugging code.
+    location: Remote
+    logo: "/assets/images/fellowship.png"
+  
+  - title: Project Intern
+    company: Infosys
+    period: "May 2024 - July 2024"
+    description: I developed a machine learning model to predict obesity risk across multiple classes taking various factors into account.
+    location: Bengaluru, India
+    logo: "/assets/images/infosys.png"
+  
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: ResumeRoast *
+    url: https://github.com/sohv/resumeroast
+    desc: This tool evaluates your resume/CV against a job listing posted on LinkedIn and gives it a score (out of 100) that demonstrates your fit and suitability for the role.
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: RL Trading agent
+    url: https://github.com/sohv/adaptron
+    desc: An agent trained to trade in Sensex Index using Proximal Policy Optimization (PPO), while demonstrating effective trade execution.
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: Financial Compliance Monitoring
+    url: https://github.com/sohv/compliance-graph
+    desc: A prototype that evaluates the financial compliance of a transaction against a set of rules stored in Neo4j database using semantic search + rule-based system.
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  - title: Adaptive Task Prioritization
+    url: https://github.com/sohv/todo-list-prioritization
+    desc: A RL-based task prioritization agent that adaptively schedules the tasks in to-do list based on deadlines and user behavior.
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+  - title: PEFT-optimized SQL chatbot
+    url: https://github.com/sohv/sql_chatbot
+    desc: A chatbot that generates SQL queries based on user input using Llama 3.3 70B model fine-tuned with QLoRA (Quantized Low-Rank Adaptation) optimally.
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
-
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: Graph-based RAG
+    url: https://github.com/sohv/RAG-knowledgegraph
+    desc: This RAG-based prototype combines Knowledge Graphs and LlamaIndex to enhance information retrieval from a structured knowledge base.
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: linkedin
+    url: https://www.linkedin.com/in/sohan-venkatesh/
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://x.com/classytiol
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/sohv
 
   - title: feed
     url: feed.xml

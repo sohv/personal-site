@@ -1,15 +1,14 @@
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
-description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+title: Sohan's Space
+author: Sohan Venkatesh
+url: sohv.github.io
+description: hey
 
 permalink: /:slug
 
-favicon: "./logo.png" # relative path to site's favicon
+favicon: "/assets/images/sv.png"
 
 twitter:
-    username: abhinav # update or delete this
+    username: classytiol # update or delete this
     card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
@@ -27,6 +26,7 @@ theme_config:
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
   show_blog: true # show blog posts added in _posts
+  show_updates: true # show updates section
   show_old_projects: true # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   show_reading_time: true # show number of words and reading time in the blog posts
@@ -48,4 +48,9 @@ sass:
 
 plugins:
   - jekyll-feed
-  - jekyll-soopr-seo-tag
+  - jekyll-seo-tag
+
+collections:
+  updates:
+    output: true
+    permalink: /updates/:title/
