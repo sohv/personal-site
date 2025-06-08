@@ -11,12 +11,11 @@ title: About
     <li>Based in: Bangalore</li>
     <li>Interests: code, AI, sports, whatever feels fun</li>
     <li>Currently: Studying CSE at MIT (Not Massachusetts, Manipal 😊)</li>
-    <li>Learning: Reinforcement learning and LLM optimization</li>
-    <li>Dream: Building AI systems that are safe, responsible and generalizable</li>
-    <li>Projects: Go <a href="./">here</a></li>
-    <li>Little Secret: My GPU and I are in a committed relationship.</li>
+    <li>Learning: Reinforcement learning and LLM alignment</li>
+    <li>Dream: Building AI systems that are safe, interpretable and generalizable</li>
+     <li>Little Secret: My GPU and I are in a committed relationship.</li>
   </ul>
-  
+
   <div class="social-section">
     <p><strong>Find me here:</strong></p>
     <div class="social-icons">
