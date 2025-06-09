@@ -13,8 +13,9 @@ title: About
     <li>Currently: Studying CSE at MIT (Not Massachusetts, Manipal 😊)</li>
     <li>Learning: Reinforcement learning and LLM alignment</li>
     <li>Dream: Building AI systems that are safe, interpretable and generalizable</li>
-     <li>Little Secret: My GPU and I are in a committed relationship.</li>
+    <li>Little Secret: My GPU and I are in a committed relationship.</li>
   </ul>
+  <img src="/assets/images/sohan.png" alt="Sohan's photo" class="about-image">
 
   <div class="social-section">
     <p><strong>Find me here:</strong></p>
