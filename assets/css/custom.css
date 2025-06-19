@@ -185,7 +185,7 @@
 
 /* Social Icons Styles */
 .social-section {
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
 .social-icons {
@@ -235,5 +235,9 @@
 
 .social-section {
   width: 100%;
-  margin-top: 2rem;
+  margin-top: 1rem;
+}
+
+.home-description, .home-subtext {
+  color: var(--text-primary);
 }

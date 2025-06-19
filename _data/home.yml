@@ -2,14 +2,23 @@ navbar_entries:
   - title: about
     url: about
 
+  - title: research
+    url: research
+
+  - title: experience
+    url: experience
+
   - title: blog
     url: blog
+
+  #- title: cv
+  #  url: /files/cv.pdf
 
 experience_entries:
   - title: Research Assistant
     company: Precog, IIIT Hyderabad
     period: "May 2025 - Present"
-    description: I work on analyzing the sycophantic behavior of LLMs under the guidance of Prof. Ponnurangam Kumaraguru.
+    description: I work on analyzing the personality of LLMs before and after the fine-tuning on narrow tasks under the guidance of Prof. Ponnurangam Kumaraguru.
     location: Hyderabad, India
     logo: "/assets/images/precog_logo.png"
 

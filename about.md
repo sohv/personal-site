@@ -10,10 +10,11 @@ title: About
   <ul class="about-list">
     <li>Based in: Bangalore</li>
     <li>Interests: code, AI, sports, whatever feels fun</li>
-    <li>Currently: Studying CSE at MIT (Not Massachusetts, Manipal 😊)</li>
-    <li>Learning: Reinforcement learning and LLM alignment</li>
-    <li>Dream: Building AI systems that are safe, interpretable and generalizable</li>
-    <li>Little Secret: My GPU and I are in a committed relationship.</li>
+    <li>Education: Studying CSE at MIT (Not Massachusetts, Manipal 😊)</li>
+    <li>Work : Research @ Precog, IIIT Hyderabad</li>
+    <li>Learning: RLHF and LLM reasoning</li>
+    <li>Dream: To build AI systems that are safe, interpretable and generalizable</li>
+    <li>Little Secret: My GPU and I are in a committed relationship 😏.</li>
   </ul>
   <img src="/assets/images/sohan.png" alt="Sohan's photo" class="about-image">
 
